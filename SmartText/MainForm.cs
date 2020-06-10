@@ -129,7 +129,7 @@ namespace SmartText
 
             if (activechild != null)
             {
-                activechild.ActiveControl.ForeColor = Color.Red;
+                activechild.ActiveControl.ForeColor = Color.Black;
             }
         }
 
@@ -153,6 +153,11 @@ namespace SmartText
             {
                 activechild.ActiveControl.ForeColor = Color.Blue;
             }
+        }
+
+        private void ParentForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

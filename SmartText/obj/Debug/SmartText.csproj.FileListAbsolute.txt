@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SmartText\bin\Debug\SmartText.exe.config
+C:\Users\User\source\repos\SmartText\bin\Debug\SmartText.exe
+C:\Users\User\source\repos\SmartText\bin\Debug\SmartText.pdb
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.ParentForm.resources
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.Properties.Resources.resources
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.exe
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.pdb
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.ChildForm.resources
+C:\Users\User\source\repos\SmartText\obj\Debug\SmartText.csprojAssemblyReference.cache
